@@ -1,0 +1,50 @@
+[
+  {
+    "id": "p4",
+    "title": "Sample post 4",
+    "selftext": "Fabricated body 4",
+    "author": "user_4",
+    "created_utc": 1799996400,
+    "score": 5,
+    "num_comments": 3,
+    "permalink": "/r/testsub/comments/p4/sample_4/",
+    "link_flair_text": "Question",
+    "removed_by_category": null
+  },
+  {
+    "id": "p3",
+    "title": "Sample post 3",
+    "selftext": "Fabricated body 3",
+    "author": "user_3",
+    "created_utc": 1799892000,
+    "score": 40,
+    "num_comments": 3,
+    "permalink": "/r/testsub/comments/p3/sample_3/",
+    "link_flair_text": "Question",
+    "removed_by_category": null
+  },
+  {
+    "id": "p2",
+    "title": "Sample post 2",
+    "selftext": "Fabricated body 2",
+    "author": "user_2",
+    "created_utc": 1799820000,
+    "score": 12,
+    "num_comments": 3,
+    "permalink": "/r/testsub/comments/p2/sample_2/",
+    "link_flair_text": "Question",
+    "removed_by_category": null
+  },
+  {
+    "id": "p1",
+    "title": "Sample post 1",
+    "selftext": "[removed]",
+    "author": "user_1",
+    "created_utc": 1799712000,
+    "score": 7,
+    "num_comments": 3,
+    "permalink": "/r/testsub/comments/p1/sample_1/",
+    "link_flair_text": "Question",
+    "removed_by_category": "moderator"
+  }
+]

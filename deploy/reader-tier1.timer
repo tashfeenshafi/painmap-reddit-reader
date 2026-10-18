@@ -1,0 +1,10 @@
+# Example only. Copy and adapt; nothing in this repo installs it.
+[Unit]
+Description=Schedule for reader-tier1.service
+
+[Timer]
+OnCalendar=*-*-* 00/6:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

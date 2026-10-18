@@ -1,0 +1,9 @@
+# Example only. Copy and adapt; nothing in this repo installs it.
+[Unit]
+Description=painmap-reddit-reader: recheck for removed or deleted items (daily, after the first tier 1 run)
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/painmap-reddit-reader
+EnvironmentFile=/etc/painmap-reddit-reader/env
+ExecStart=/opt/painmap-reddit-reader/.venv/bin/reader recheck

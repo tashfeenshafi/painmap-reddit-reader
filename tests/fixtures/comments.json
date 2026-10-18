@@ -1,0 +1,76 @@
+{
+  "p3": [
+    {
+      "id": "c1",
+      "body": "Fabricated comment 1",
+      "author": "commenter_1",
+      "created_utc": 1799996400,
+      "score": 50,
+      "parent_id": "t3_p3",
+      "permalink": "/r/testsub/comments/p3/sample_3/c1/",
+      "replies": [
+        {
+          "id": "c5",
+          "body": "Fabricated comment 5",
+          "author": "commenter_5",
+          "created_utc": 1799982000,
+          "score": 30,
+          "parent_id": "t1_c1",
+          "permalink": "/r/testsub/comments/p3/sample_3/c5/",
+          "replies": [
+            {
+              "id": "c6",
+              "body": "Fabricated comment 6",
+              "author": "commenter_6",
+              "created_utc": 1799978400,
+              "score": 99,
+              "parent_id": "t1_c5",
+              "permalink": "/r/testsub/comments/p3/sample_3/c6/",
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "body": "Fabricated comment 7",
+          "author": "commenter_7",
+          "created_utc": 1799974800,
+          "score": 1,
+          "parent_id": "t1_c1",
+          "permalink": "/r/testsub/comments/p3/sample_3/c7/",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "body": "Fabricated comment 2",
+      "author": "commenter_2",
+      "created_utc": 1799992800,
+      "score": 5,
+      "parent_id": "t3_p3",
+      "permalink": "/r/testsub/comments/p3/sample_3/c2/",
+      "replies": []
+    },
+    {
+      "id": "c3",
+      "body": "Fabricated comment 3",
+      "author": "commenter_3",
+      "created_utc": 1799989200,
+      "score": 40,
+      "parent_id": "t3_p3",
+      "permalink": "/r/testsub/comments/p3/sample_3/c3/",
+      "replies": []
+    },
+    {
+      "id": "c4",
+      "body": "[removed]",
+      "author": "commenter_4",
+      "created_utc": 1799985600,
+      "score": 90,
+      "parent_id": "t3_p3",
+      "permalink": "/r/testsub/comments/p3/sample_3/c4/",
+      "replies": []
+    }
+  ]
+}

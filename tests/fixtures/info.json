@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p3",
+    "title": "Sample post 3",
+    "selftext": "[deleted]",
+    "removed_by_category": "deleted"
+  },
+  {
+    "id": "p2",
+    "title": "Sample post 2",
+    "selftext": "Fabricated body 2",
+    "removed_by_category": null
+  },
+  {
+    "id": "c1",
+    "body": "Fabricated comment 1",
+    "removed_by_category": null
+  },
+  {
+    "id": "c3",
+    "body": "[deleted]"
+  }
+]

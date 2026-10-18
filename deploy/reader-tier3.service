@@ -1,0 +1,9 @@
+# Example only. Copy and adapt; nothing in this repo installs it.
+[Unit]
+Description=painmap-reddit-reader: tier 3 collect (weekly, posts only)
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/painmap-reddit-reader
+EnvironmentFile=/etc/painmap-reddit-reader/env
+ExecStart=/opt/painmap-reddit-reader/.venv/bin/reader collect --tier 3
